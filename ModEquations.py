@@ -25,3 +25,5 @@ if method == 2 :
     print (f'the solution is: {res}')
 elif method == 1 :
     print(f'the inverse is: {res}')
+
+input('press a key to exit')
