@@ -1,2 +1,2 @@
-# ModularArithmetic
-Random MAD code
+# Python Scripts
+Random py code
